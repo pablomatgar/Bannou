@@ -1,6 +1,6 @@
 # Bannou (万能)
 
-Swift-based IOS app developed at [HackUPC 2019](https://2018.hackupc.com), the first student hackathon in Spain (fifth edition).
+Swift-based IOS app developed at [HackUPC 2019](https://2019.hackupc.com), the first student hackathon in Spain (fifth edition).
 
 The purpose of developing this app was trying to create a system that allows Spanish tourists who go to Japan and vice versa to use the following functionalities:
 
